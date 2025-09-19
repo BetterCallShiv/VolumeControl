@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.VolumeControl" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/blue_500</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorPrimaryContainer">@color/blue_100</item>
+        <item name="colorOnPrimaryContainer">@color/blue_900</item>
+        <item name="colorSecondary">@color/green_500</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="colorSecondaryContainer">@color/green_100</item>
+        <item name="colorOnSecondaryContainer">@color/green_900</item>
+        <item name="colorError">@color/red_500</item>
+        <item name="colorErrorContainer">@color/red_100</item>
+        <item name="colorOnError">@android:color/white</item>
+        <item name="colorOnErrorContainer">@color/red_900</item>
+        <item name="colorSurface">@color/gray_50</item>
+        <item name="colorOnSurface">@color/gray_900</item>
+        <item name="colorSurfaceVariant">@color/gray_200</item>
+        <item name="colorOnSurfaceVariant">@color/gray_700</item>
+        <item name="colorOutline">@color/gray_300</item>
+        <item name="android:statusBarColor">@color/blue_500</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+    </style>
+    
+</resources>
